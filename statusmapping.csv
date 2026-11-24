@@ -1,0 +1,7 @@
+source,status,crm_status
+amber,V,actief
+amber,O,in_behandeling
+amber,X,gesloten
+getij,open,actief
+getij,pause,in_behandeling
+getij,closed,gesloten

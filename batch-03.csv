@@ -1,0 +1,5 @@
+event_id,source,external_id,event_time,status,price_eur,corrects
+E10,getij,77,2026-11-02T11:00:00Z,pause,300000,E07
+E05,amber,41,2026-11-02T10:00:00Z,O,999999,
+E11,getij,41,2026-11-02T11:10:00Z,closed,315000,
+E12,amber,41,2026-11-02T11:15:00Z,V,217000,
